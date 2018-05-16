@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\practice1">
+      <UniqueIdentifier>{2a65dac9-eef2-4a93-a9aa-8de41f2a6e50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice2">
+      <UniqueIdentifier>{342cb171-408d-438f-9695-901470582f16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice3">
+      <UniqueIdentifier>{a6fa20b4-e92a-4e20-9aed-a8ee660e8382}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice4">
+      <UniqueIdentifier>{20045399-dd86-41a3-ad3c-469027c8caf7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice6">
+      <UniqueIdentifier>{0cac6b91-04ed-4dc4-b8ca-3395f6f629fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice7">
+      <UniqueIdentifier>{965c1d31-9af6-446c-a836-0f5c2e46790e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice8">
+      <UniqueIdentifier>{b15f0a85-90be-4444-9f2b-77d7e7766284}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice1\HeadFile">
+      <UniqueIdentifier>{ec5bce1f-e858-4697-82d3-1cd6e481ac81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice2\HeadFile">
+      <UniqueIdentifier>{c1adff9c-577d-4193-9d45-2d8cdea1ef64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice4\HeadFile">
+      <UniqueIdentifier>{c7d5ced4-b331-44cd-bbbd-5c3bebaaeba5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice6\HeadFile">
+      <UniqueIdentifier>{6602705c-de0a-4142-9471-1e4eff09f77a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice5">
+      <UniqueIdentifier>{a946e576-c6b6-436f-9607-4c7e4c211a46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice5\HeadFile">
+      <UniqueIdentifier>{b6769e71-c50d-46d2-8966-21b1353d4d89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice5\practice5project2">
+      <UniqueIdentifier>{6c8d15d3-c001-440c-9fe3-53e02734c730}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice5\practice5project2\HeadFile">
+      <UniqueIdentifier>{6d6114f5-fa28-45d1-b183-139919aa0e12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice7\HeadFile">
+      <UniqueIdentifier>{422bb31d-af7f-4da9-8c06-138643747723}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice8\HeadFile">
+      <UniqueIdentifier>{5586ad11-f794-413e-9e88-12d1cbea7c16}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PracticeMain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="practice1\practice1.cpp">
+      <Filter>源文件\practice1</Filter>
+    </ClCompile>
+    <ClCompile Include="practice2\practice2.cpp">
+      <Filter>源文件\practice2</Filter>
+    </ClCompile>
+    <ClCompile Include="practice3\practice3.cpp">
+      <Filter>源文件\practice3</Filter>
+    </ClCompile>
+    <ClCompile Include="practice4\practice4.cpp">
+      <Filter>源文件\practice4</Filter>
+    </ClCompile>
+    <ClCompile Include="practice5\practice5.cpp">
+      <Filter>源文件\practice5</Filter>
+    </ClCompile>
+    <ClCompile Include="practice6\practice6.cpp">
+      <Filter>源文件\practice6</Filter>
+    </ClCompile>
+    <ClCompile Include="practice7\practice7.cpp">
+      <Filter>源文件\practice7</Filter>
+    </ClCompile>
+    <ClCompile Include="practice8\practice8.cpp">
+      <Filter>源文件\practice8</Filter>
+    </ClCompile>
+    <ClCompile Include="practice1\practice1project1.cpp">
+      <Filter>源文件\practice1</Filter>
+    </ClCompile>
+    <ClCompile Include="practice1\practice1project2.cpp">
+      <Filter>源文件\practice1</Filter>
+    </ClCompile>
+    <ClCompile Include="practice1\practice1project3.cpp">
+      <Filter>源文件\practice1</Filter>
+    </ClCompile>
+    <ClCompile Include="practice1\practice1project4.cpp">
+      <Filter>源文件\practice1</Filter>
+    </ClCompile>
+    <ClCompile Include="practice2\practice2project1.cpp">
+      <Filter>源文件\practice2</Filter>
+    </ClCompile>
+    <ClCompile Include="practice2\practice2project2.cpp">
+      <Filter>源文件\practice2</Filter>
+    </ClCompile>
+    <ClCompile Include="practice2\practice2project3.cpp">
+      <Filter>源文件\practice2</Filter>
+    </ClCompile>
+    <ClCompile Include="practice4\practice4project1.cpp">
+      <Filter>源文件\practice4</Filter>
+    </ClCompile>
+    <ClCompile Include="practice4\practice4project2.cpp">
+      <Filter>源文件\practice4</Filter>
+    </ClCompile>
+    <ClCompile Include="practice4\practice4project3.cpp">
+      <Filter>源文件\practice4</Filter>
+    </ClCompile>
+    <ClCompile Include="practice4\practice4project4.cpp">
+      <Filter>源文件\practice4</Filter>
+    </ClCompile>
+    <ClCompile Include="practice5\practice5project1.cpp">
+      <Filter>源文件\practice5</Filter>
+    </ClCompile>
+    <ClCompile Include="practice5\practice5project2.cpp">
+      <Filter>源文件\practice5\practice5project2</Filter>
+    </ClCompile>
+    <ClCompile Include="practice5\practice5project2\systemManage.cpp">
+      <Filter>源文件\practice5\practice5project2</Filter>
+    </ClCompile>
+    <ClCompile Include="practice5\practice5project2\stationManage.cpp">
+      <Filter>源文件\practice5\practice5project2</Filter>
+    </ClCompile>
+    <ClCompile Include="practice5\practice5project2\ticketManage.cpp">
+      <Filter>源文件\practice5\practice5project2</Filter>
+    </ClCompile>
+    <ClCompile Include="practice5\practice5project2\ticketServices.cpp">
+      <Filter>源文件\practice5\practice5project2</Filter>
+    </ClCompile>
+    <ClCompile Include="practice5\practie5project3.cpp">
+      <Filter>源文件\practice5</Filter>
+    </ClCompile>
+    <ClCompile Include="practice6\practice6project1.cpp">
+      <Filter>源文件\practice6</Filter>
+    </ClCompile>
+    <ClCompile Include="practice6\practice6project2.cpp">
+      <Filter>源文件\practice6</Filter>
+    </ClCompile>
+    <ClCompile Include="practice6\practice6project3.cpp">
+      <Filter>源文件\practice6</Filter>
+    </ClCompile>
+    <ClCompile Include="practice6\practice6project4.cpp">
+      <Filter>源文件\practice6</Filter>
+    </ClCompile>
+    <ClCompile Include="practice7\practice7project1.cpp">
+      <Filter>源文件\practice7</Filter>
+    </ClCompile>
+    <ClCompile Include="practice7\practice7project2.cpp">
+      <Filter>源文件\practice7</Filter>
+    </ClCompile>
+    <ClCompile Include="practice7\practice7project3.cpp">
+      <Filter>源文件\practice7</Filter>
+    </ClCompile>
+    <ClCompile Include="practice8\practice8project1.cpp">
+      <Filter>源文件\practice8</Filter>
+    </ClCompile>
+    <ClCompile Include="practice8\practice8project2.cpp">
+      <Filter>源文件\practice8</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HeadFile\practice1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HeadFile\practice2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HeadFile\practice3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HeadFile\practice4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HeadFile\practice5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HeadFile\practice6.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HeadFile\practice7.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HeadFile\practice8.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="practice1\practice1project1.h">
+      <Filter>源文件\practice1\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice1\practice1project2.h">
+      <Filter>源文件\practice1\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice1\practice1project3.h">
+      <Filter>源文件\practice1\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice1\practice1project4.h">
+      <Filter>源文件\practice1\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice2\practice2project1.h">
+      <Filter>源文件\practice2\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice2\practice2project2.h">
+      <Filter>源文件\practice2\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice2\practice2project3.h">
+      <Filter>源文件\practice2\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice4\practice4project1.h">
+      <Filter>源文件\practice4\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice4\practice4project2.h">
+      <Filter>源文件\practice4\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice4\practice4project3.h">
+      <Filter>源文件\practice4\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice4\practice4project4.h">
+      <Filter>源文件\practice4\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice5\practice5project1.h">
+      <Filter>源文件\practice5\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice5\practice5project2.h">
+      <Filter>源文件\practice5\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice5\practice5project2\ticket.h">
+      <Filter>源文件\practice5\practice5project2\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice5\practice5project3.h">
+      <Filter>源文件\practice5\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice6\practice6project1.h">
+      <Filter>源文件\practice6\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice6\practice6project2.h">
+      <Filter>源文件\practice6\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice6\practice6project3.h">
+      <Filter>源文件\practice6\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice6\practice6project4.h">
+      <Filter>源文件\practice6\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice7\practice7project1.h">
+      <Filter>源文件\practice7\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice7\practice7project2.h">
+      <Filter>源文件\practice7\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice7\practice7project3.h">
+      <Filter>源文件\practice7\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice8\practice8project1.h">
+      <Filter>源文件\practice8\HeadFile</Filter>
+    </ClInclude>
+    <ClInclude Include="practice8\practice8project2.h">
+      <Filter>源文件\practice8\HeadFile</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
